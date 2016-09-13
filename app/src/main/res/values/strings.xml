@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CrudSQLite</string>
+    <string name="bienvenida">bienvenidos al crud SQLite</string>
+    <string name="guardar">Guardar</string>
+    <string name="mostrar">mostrar</string>
+    <string name="nombre">nombre</string>
+    <string name="apellido">apellido</string>
+    <string name="modificar">modificar</string>
+    <string name="eliminar">Eliminar</string>
+</resources>
